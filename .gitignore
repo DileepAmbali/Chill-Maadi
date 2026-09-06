@@ -1,0 +1,14 @@
+# Generated exports
+*.mrpack
+*.zip
+
+# Local junk
+.DS_Store
+Thumbs.db
+
+# Minecraft runtime data - never commit these
+world/
+world_nether/
+world_the_end/
+logs/
+crash-reports/
